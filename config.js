@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/satoru-kakinohana-950739144/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://kaki-playground.netlify.com/',
 };
