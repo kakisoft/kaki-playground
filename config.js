@@ -1,7 +1,7 @@
 module.exports = {
   title: 'かきプレイグラウンド', // Required
   author: 'かきそふと', // Required
-  description: 'Netlifyたのしいねー',
+  description: 'ほげー',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
