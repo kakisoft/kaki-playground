@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'かきプレイグラウンド', // Required
+  author: 'かきそふと', // Required
+  description: 'Netlifyたのしいねー',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://kakiflow.com/',
+    github: 'https://github.com/kakisoft',
+    twitter: 'https://twitter.com/kakisoft_tab',
+    linkedin: 'https://www.linkedin.com/in/satoru-kakinohana-950739144/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  // pathPrefix: '/devblog',
+  // siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
 };
