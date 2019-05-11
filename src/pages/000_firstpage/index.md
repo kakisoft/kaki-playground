@@ -1,10 +1,10 @@
 ---
 title: このサイトについて
 date: "9999-12-31"
-featuredImage: './featured.jpg'
+featuredImage: './001.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+福岡市周辺の、公園などの子供が遊ぶ場所の情報を載せていこうかと思います。
 
 <!-- end -->
 

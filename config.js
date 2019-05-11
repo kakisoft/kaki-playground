@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'かきぴーぐらうんど', // Required
-  author: 'かきぴーぐらうんど', // Required
-  description: 'Netlifyたのしいー',
+  title: 'かき ぷれいぐらうんど', // Required
+  author: 'かき ぷれいぐらうんど', // Required
+  description: '書いてる人：かきそふと',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
