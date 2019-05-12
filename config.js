@@ -1,7 +1,7 @@
 module.exports = {
   title: 'かき ぷれいぐらうんど', // Required
   author: 'かき ぷれいぐらうんど', // Required
-  description: '書いてる人：かきそふと',
+  description: '【福岡市周辺】公園などの子供が遊ぶ場所の情報をかいてます。',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
