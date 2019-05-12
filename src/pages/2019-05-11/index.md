@@ -13,7 +13,7 @@ featuredImage: './index.jpg'
 ## 入口
 ![01](./01.jpg)
 
-## アトラクションdaa
+## 遊具
 ![03](./03.jpg)
 ![04](./04.jpg)
 
