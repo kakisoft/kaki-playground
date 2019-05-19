@@ -5,7 +5,7 @@ module.exports = {
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 10, // Required
   social: {
     website: 'https://kakiflow.com/',
     github: 'https://github.com/kakisoft',
