@@ -10,7 +10,6 @@ featuredImage: './index2.jpg'
 トイレ：あり。男女共用。オムツ替え不可。 
 <!-- end --> 
 
-![01](./index.jpg)  
 ## 入口
 ![01](./01.jpg)  
 ![01](./02.jpg)  
